@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+![image](https://github.com/dnd-side-project/dnd-9th-4-frontend/assets/101538592/e7a4a332-6fff-4df3-9aae-3dc47e81fcc0)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 왜 운동 메이트를 구해야 할까요?
+혼자 운동을 하게 되면 운동 시간과 장소를 정하는 것이 자유롭지만, 그만큼 의무감과 강제성이 부족하여 쉽게 운동을 포기하게 됩니다. 또 부족한 부분을 확인하기 어렵고 무리를 했을 때 도와줄 이가 없기도 합니다.
+다른 사람과 함께 운동을 할 때, 우리는 긍정적인 자극을 통해 동기부여를 얻을 수 있습니다. 타인과의 약속이니 운동을 미루는 일도 적어지고, 나의 자세에 대한 조언과 해당 운동에 대한 팁도 얻을 수 있습니다.
 
-In the project directory, you can run:
+다른 사람과 함께 운동을 하고 싶지만 위치와 시간 등 상황과 조건에 맞는 지인이 없어 혼자 하시는 분들, 주변에서 함께 운동할 파트너를 구하고 싶지만 여러 조건을 맞추는 것이 부담스러워 혼자 운동을 하시던 분들, 뉴플을 통해 운동메이트를 찾아보세요!
+내가 원하는 시간, 관심사에 맞는 메이트를 찾을 수 있는 모집글을 등록하여 원하는 사람을 찾고, 선호하는 종목과 성향을 기반으로 한 맞춤 추천 기능을 통해 운동메이트를 추천받아보세요. 자신과 운동 목적이 맞는 메이트와 함께 즐겁고 편안하게 운동을 진행할 수 있습니다!
 
-### `npm start`
+### 🔎 내 운동 성향과 원하는 운동메이트 등록하기
+온보딩 페이지에서 나의 운동 경력과 스타일, 관심사를 선택해주세요. 그리고 선호하는 운동메이트의 성별, 나이, 운동 경력 등을 선택해주시면 추후 알맞는 메이트 추천에 사용됩니다!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### ✨ 내 주변 운동메이트와 나의 매칭 일정 확인하기
+온보딩에서 등록해주신 사는 지역을 바탕으로, 메인 페이지에서 근처에 거주 중인 운동메이트를 추천해드려요. 원하는 메이트에게 쪽지를 보내 운동 일정을 약속할 수 있습니다!
+또 나의 운동 매칭 일정을 확인하여, 상대방과의 운동을 잊지 않고 참석할 수 있도록 도와드려요.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 📝 등록된 운동메이트 모집글을 확인하고 매칭 신청하기
+현재 올라온 운동메이트 모집글을 확인하고 함께하고 싶은 운동에 매칭을 신청해보세요. 원하는 날짜와 운동 종목, 세부 내용들을 선택하여 간편히 필터링할 수 있어요. 매칭을 신청한 후에 마음이 바뀌었다면, 마감 전 취소 역시 가능합니다!
+이렇게 신청된 매칭들은, 모집글 작성자가 추후에 확인하여 함께하고 싶은 메이트를 선택할 수 있어요.
 
-### `npm test`
+### 📬 원하는 메이트에게 쪽지 보내기
+매칭된 메이트에게는 쪽지를 보내서 운동 일정을 확정할 수 있어요. 서로의 운동 목적이나 스케줄을 더 상세히 파악하고 상대방과 함께 운동을 진행해보세요! 그간의 쪽지 이력 역시 쪽지 목록을 통해 확인할 수 있어요.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 💡 메이트 리뷰 등록하기
+원하는 운동메이트와 함께 만족스러운 운동을 진행하셨나요? 그렇다면 후기를 남겨주세요. 등록된 후기는 상대방 프로필에서 확인할 수 있으며, 다른 유저들이 해당 후기를 통해 그 메이트에 대해 한 걸음 더 알 수 있어요!
